@@ -6,9 +6,9 @@ Email Me 👉 ✉️ **00abhichauhann00@gmail.com** For Collaboration/Project or
 - 🔭 **I’m currently final year B.Tech CSE student**
 - 👯 **I’m looking to collaborate on**
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:**00abhichauhann00@gmail.com**
+- 📫 **How to reach me: **00abhichauhann00@gmail.com**
 - 😄 **Pronouns:** Abhi
-- ⚡ **Fun fact:** I Love analyzing the data and creting insights
+- ⚡ **Fun fact:** I Love data handling, manipulation, visualizing data, analyzing the data and creating insights.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/004bhichauhan00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/00abhichauhan00) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@00AbhiChauhan00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmendar130150@gmail.com) 
 
