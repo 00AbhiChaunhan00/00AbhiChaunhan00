@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Abhishek Singh Chauhan
-**Aspiring Data Analyst | Excel • SQL • Python  • Data Visualization • EDA • Dashboards**
+**Aspiring Data Analyst | Excel • SQL • Python • Data Visualization • EDA • Dashboards**
 
-Email Me 👉 ✉️ **00abhichauhann00@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **00abhichauhann00@gmail.com** For Collaboration/Project or Anything Else. 
 
 - 🔭 **I’m currently final year B.Tech CSE student**
 - 👯 **I’m looking to collaborate on**
