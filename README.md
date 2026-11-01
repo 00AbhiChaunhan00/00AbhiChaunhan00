@@ -1,43 +1,56 @@
-<!-- ================= HEADER BANNER ================= -->
+<!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Abhishek%20Singh%20Chauhan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Business%20Insights&descSize=18&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b16,50:247bff,100:ff354f&height=230&section=header&text=ABHISHEK%20SINGH%20CHAUHAN&fontSize=44&fontColor=f4f6fb&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%E2%80%A2%20Turning%20Raw%20Data%20into%20Business%20Insights&descSize=16&descColor=c9d3ee&descAlignY=60" width="100%"/>
 </p>
 
-<!-- ================= TYPING ANIMATION ================= -->
+<table align="center" width="100%">
+<tr>
+<td width="58%" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=900&color=247BFF&vCenter=true&width=520&height=45&lines=Hi+%F0%9F%91%8B+I'm+Abhishek;Data+Analyst+%7C+SQL+%7C+Power+BI;I+turn+messy+data+into+clear+decisions;Open+to+Data+Analyst+Internships+%F0%9F%9A%80" alt="Typing animation"/>
+
+<br>
+
+**Dashboards • EDA • Storytelling with Data**
+Final-year B.Tech CSE student who builds BI dashboards decision-makers can actually use.
+
+<br>
+
+<a href="https://abhishek-da-portfolio.pages.dev/"><img src="btn-portfolio.svg?v=1" width="190" alt="Portfolio"/></a>
+<a href="mailto:00abhichauhann00@gmail.com"><img src="btn-hire.svg?v=1" width="190" alt="Hire Me"/></a>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0f6b30"/>
+<img src="https://img.shields.io/badge/FINAL%20YEAR-B.TECH%20CSE-247bff?style=for-the-badge&logo=academia&logoColor=white&labelColor=0b3d91"/>
+<img src="https://komarev.com/ghpvc/?username=00AbhiChaunhan00&label=PROFILE%20VIEWS&color=ff354f&style=for-the-badge&labelColor=9c1a2e"/>
+
+</td>
+<td width="42%" align="center" valign="bottom">
+
+<img src="id.png" alt="Abhishek Singh Chauhan" width="360"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ===== SOCIAL BUTTONS (HERO) ===== -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=00C4FF&center=true&vCenter=true&width=800&height=50&lines=Hi+%F0%9F%91%8B+I'm+Abhishek;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;I+turn+messy+data+into+clear+decisions;Dashboards+%E2%80%A2+EDA+%E2%80%A2+Storytelling+with+Data;Open+to+Data+Analyst+Internships+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <a href="https://abhishek-da-portfolio.pages.dev/"><img src="btn-portfolio.svg?v=1" width="160" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/00abhichauhan00"><img src="btn-linkedin.svg?v=1" width="160" alt="LinkedIn"/></a>
+  <a href="mailto:00abhichauhann00@gmail.com"><img src="btn-gmail.svg?v=1" width="160" alt="Gmail"/></a>
+  <a href="https://x.com/00AbhiChauhan00"><img src="btn-x.svg?v=1" width="160" alt="X"/></a>
+  <a href="https://instagram.com/004bhichauhan00"><img src="btn-instagram.svg?v=1" width="160" alt="Instagram"/></a>
 </p>
 
-<p align="center">
-  <a href="https://abhishek-da-portfolio.pages.dev/">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20VISIT%20MY%20PORTFOLIO-abhishek--da--portfolio.pages.dev-00C4FF?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=00AbhiChaunhan00&label=Profile%20Views&color=00c4ff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Final%20Year-B.Tech%20CSE-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://abhishek-da-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/00abhichauhan00"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:00abhichauhann00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/00AbhiChauhan00"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://instagram.com/004bhichauhan00"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=3" width="100%"/>
 
 <!-- ================= ABOUT ================= -->
 ## 💫 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 name:        Abhishek Singh Chauhan
@@ -52,7 +65,7 @@ portfolio:   abhishek-da-portfolio.pages.dev
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 - 📊 I love finding the **story hiding inside data**
 - 🧹 Strong on **data cleaning & EDA**
@@ -64,19 +77,19 @@ portfolio:   abhishek-da-portfolio.pages.dev
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=3" width="100%"/>
 
-<!-- ================= SKILLS ================= -->
+<!-- ================= STACK ================= -->
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,vscode,jupyter&theme=dark" /><br><br>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EXCEL-DASHBOARDS-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0f5132"/>
+  <img src="https://img.shields.io/badge/POWER%20BI-DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=b8960a"/>
+  <img src="https://img.shields.io/badge/PANDAS-DATA-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0b0229"/>
+  <img src="https://img.shields.io/badge/NUMPY-ARRAYS-4dabcf?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243"/>
+  <img src="https://img.shields.io/badge/PLOTLY-CHARTS-7a76ff?style=for-the-badge&logo=plotly&logoColor=white&labelColor=3f4f75"/>
+  <img src="https://img.shields.io/badge/MATPLOTLIB-PLOTS-11557C?style=for-the-badge&logoColor=white&labelColor=0a3350"/>
 </p>
 
 <table align="center">
@@ -91,25 +104,20 @@ portfolio:   abhishek-da-portfolio.pages.dev
 
 Excel (Pivot, XLOOKUP, Power Query)<br>
 Power BI (DAX basics)<br>
-EDA<br>
-KPI Design<br>
+EDA · KPI Design<br>
 Business Analysis
 
 </td>
 <td>
 
-Python<br>
-Pandas<br>
-NumPy<br>
+Python · Pandas · NumPy<br>
 Data Cleaning<br>
 Automation Scripts
 
 </td>
 <td>
 
-PostgreSQL<br>
-MySQL<br>
-SQLite<br>
+PostgreSQL · MySQL · SQLite<br>
 Joins · CTEs<br>
 Window Functions
 
@@ -118,8 +126,7 @@ Window Functions
 
 Power BI Dashboards<br>
 Excel Dashboards<br>
-Matplotlib<br>
-Plotly<br>
+Matplotlib · Plotly<br>
 Data Storytelling
 
 </td>
@@ -130,15 +137,13 @@ Data Storytelling
 
 | Skill | Level |
 |:--|:--|
-| **SQL** | ![](https://progress-bar.xyz/80/?title=&width=300&color=00c4ff) |
+| **SQL** | ![](https://progress-bar.xyz/80/?title=&width=300&color=247bff) |
 | **Excel** | ![](https://progress-bar.xyz/85/?title=&width=300&color=217346) |
 | **Power BI** | ![](https://progress-bar.xyz/75/?title=&width=300&color=f2c811) |
 | **Python (Pandas/NumPy)** | ![](https://progress-bar.xyz/75/?title=&width=300&color=3776ab) |
-| **Statistics** | ![](https://progress-bar.xyz/60/?title=&width=300&color=a855f7) |
+| **Statistics** | ![](https://progress-bar.xyz/60/?title=&width=300&color=ff354f) |
 
-> 💡 *Edit the percentages above to match your honest current level.*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=3" width="100%"/>
 
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
@@ -148,18 +153,15 @@ Data Storytelling
 <td width="33%" valign="top">
 
 ### 📊 Business Performance & Decision Analytics
-End-to-end BI system that moves from *"What happened?"* to *"Why?"* and *"What needs attention?"* — with an Alerts page, Root Cause Analysis and an n8n data-validation workflow.
+End-to-end BI system that moves from *"What happened?"* to *"Why?"* and *"What needs attention?"*, with an Alerts page, Root Cause Analysis and an n8n data-validation workflow.
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-118DFF?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/DAX-118DFF?style=flat-square"/> <img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 
-**💡 Key finding:** Net Sales grew **+207%** to **$823.85M**, yet Net Profit fell to **-$54.65M** — operating costs exceeded gross margin. APAC was the biggest revenue region *and* the biggest loss contributor.
+**💡 Key finding:** Net Sales grew **+207%** to **$823.85M**, yet Net Profit fell to **-$54.65M**. Operating costs exceeded gross margin. APAC was the biggest revenue region *and* the biggest loss contributor.
 
 **Highlights:** P&L & Margin Analysis · Forecast Accuracy · Inventory Risk · Alerts · RCA Decomposition Tree
 
-[🔗 View Project](https://github.com/00AbhiChaunhan00/Business-Performance-Decision-Analytics)
+<a href="https://github.com/00AbhiChaunhan00/Business-Performance-Decision-Analytics"><img src="btn-project-blue.svg?v=1" width="190" alt="View Project"/></a>
 
 </td>
 <td width="33%" valign="top">
@@ -167,16 +169,13 @@ End-to-end BI system that moves from *"What happened?"* to *"Why?"* and *"What n
 ### 👥 Customer Behavior & Revenue Analytics
 Customer segmentation, revenue concentration, retention and churn analysis built with SQL (RFM) and a 5-page Power BI dashboard.
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-118DFF?style=flat-square)
-![RFM](https://img.shields.io/badge/RFM-Analysis-22c55e?style=flat-square)
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/DAX-118DFF?style=flat-square"/> <img src="https://img.shields.io/badge/RFM-ANALYSIS-22c55e?style=flat-square"/>
 
 **💡 Key finding:** Top **20%** of customers generate **45.53%** of revenue, while **At-Risk** customers hold **₹133.58M** in historical revenue.
 
 **Highlights:** RFM Segmentation · Pareto Analysis · Retention vs Churn · Purchase Frequency · 8 SQL Investigations
 
-[🔗 View Project](https://github.com/00AbhiChaunhan00/Customer-Behavior-Revenue-Analytics)
+<a href="https://github.com/00AbhiChaunhan00/Customer-Behavior-Revenue-Analytics"><img src="btn-project-red.svg?v=1" width="190" alt="View Project"/></a>
 
 </td>
 <td width="33%" valign="top">
@@ -184,27 +183,24 @@ Customer segmentation, revenue concentration, retention and churn analysis built
 ### 🚕 NYC Taxi Revenue & Payment Behavior Analysis
 Python EDA, MySQL business analysis and statistical hypothesis testing on **2.79M** cleaned NYC Yellow Taxi trips (Jan 2025).
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/SEABORN-4C8CBF?style=flat-square"/>
 
-**💡 Key finding:** Credit Card = **86.8%** of trips and **$43.28M** fare revenue. Welch's t-test was significant (p ≈ 2.1×10⁻⁸) but the fare gap was only **$0.19** — *statistical ≠ business significance*.
+**💡 Key finding:** Credit Card = **86.8%** of trips and **$43.28M** fare revenue. Welch's t-test was significant (p ≈ 2.1×10⁻⁸) but the fare gap was only **$0.19**. *Statistical ≠ business significance.*
 
 **Highlights:** Data Cleaning · Payment & Distance Analysis · Peak Revenue Hours · Hypothesis Testing
 
-[🔗 View Project](https://github.com/00AbhiChaunhan00/NYC-Taxi-Revenue-Payment-Behavior-Analysis)
+<a href="https://github.com/00AbhiChaunhan00/NYC-Taxi-Revenue-Payment-Behavior-Analysis"><img src="btn-project-green.svg?v=1" width="190" alt="View Project"/></a>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/00AbhiChaunhan00?tab=repositories"><img src="https://img.shields.io/badge/More_Projects-View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://abhishek-da-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Full_Case_Studies-Portfolio-00C4FF?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
+  <a href="https://github.com/00AbhiChaunhan00?tab=repositories"><img src="btn-more.svg?v=1" width="220" alt="More Projects"/></a>
+  <a href="https://abhishek-da-portfolio.pages.dev/"><img src="btn-casestudies.svg?v=1" width="220" alt="Case Studies"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=3" width="100%"/>
 
 <!-- ================= WORKFLOW ================= -->
 ## 🔄 My Analytics Workflow
@@ -218,30 +214,32 @@ Python EDA, MySQL business analysis and statistical hypothesis testing on **2.79
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Advanced_SQL-in_progress-00c4ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Statistics-in_progress-a855f7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power_BI_%26_DAX-in_progress-f2c811?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-in_progress-22c55e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business_Analytics-in_progress-ef4444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ADVANCED%20SQL-IN%20PROGRESS-247bff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0b3d91"/>
+  <img src="https://img.shields.io/badge/STATISTICS-IN%20PROGRESS-ff354f?style=for-the-badge&logo=scipy&logoColor=white&labelColor=9c1a2e"/>
+  <img src="https://img.shields.io/badge/POWER%20BI%20%26%20DAX-IN%20PROGRESS-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=b8960a"/>
+  <img src="https://img.shields.io/badge/DATA%20MODELING-IN%20PROGRESS-22c55e?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=0f6b30"/>
+  <img src="https://img.shields.io/badge/BUSINESS%20ANALYTICS-IN%20PROGRESS-a855f7?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=6b21a8"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=3" width="100%"/>
 
 <!-- ================= GITHUB STATS ================= -->
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=00AbhiChaunhan00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00AbhiChaunhan00&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=00AbhiChaunhan00&show_icons=true&hide_border=true&count_private=true&bg_color=070b16&title_color=247bff&icon_color=ff354f&text_color=e8ecf5"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00AbhiChaunhan00&layout=compact&hide_border=true&bg_color=070b16&title_color=247bff&text_color=e8ecf5"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=00AbhiChaunhan00&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=00AbhiChaunhan00&hide_border=true&background=070b16&ring=ff354f&fire=ff354f&currStreakNum=e8ecf5&sideNums=e8ecf5&currStreakLabel=247bff&sideLabels=247bff&dates=8b93a7"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=00AbhiChaunhan00&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=00AbhiChaunhan00&bg_color=070b16&color=247bff&line=ff354f&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=3" width="100%"/>
 
 <!-- ================= WHAT YOU'LL FIND ================= -->
 ## 🎯 What You'll Find Here
@@ -252,16 +250,34 @@ Python EDA, MySQL business analysis and statistical hypothesis testing on **2.79
 | ✅ Python Data Analysis | ✅ Exploratory Data Analysis | ✅ Data Cleaning |
 | ✅ Business Insights | ✅ End-to-End Analytics Projects | ✅ Learning Notes |
 
-<!-- ================= CONTACT ================= -->
-## 🤝 Let's Work Together
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:247bff,100:ff354f&height=3" width="100%"/>
+
+<!-- ================= CONNECT ================= -->
+## 🤝 Let's Connect
+
+<table align="center" width="100%">
+<tr>
+<td width="55%" align="center" valign="bottom">
+
+<img src="right_pointing.png" alt="Abhishek pointing to contact links" width="100%"/>
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+I'm open to **Data Analyst internships**, **freelance projects** and **collaborations**.<br>Pick a channel 👉
+
+<br><br>
+
+<a href="https://abhishek-da-portfolio.pages.dev/"><img src="btn-portfolio.svg?v=1" width="260" alt="Portfolio"/></a><br>
+<a href="https://linkedin.com/in/00abhichauhan00"><img src="btn-linkedin.svg?v=1" width="260" alt="LinkedIn"/></a><br>
+<a href="mailto:00abhichauhann00@gmail.com"><img src="btn-gmail.svg?v=1" width="260" alt="Gmail"/></a><br>
+<a href="https://x.com/00AbhiChauhan00"><img src="btn-x.svg?v=1" width="260" alt="X"/></a><br>
+<a href="https://instagram.com/004bhichauhan00"><img src="btn-instagram.svg?v=1" width="260" alt="Instagram"/></a>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  I'm open to <b>Data Analyst internships</b>, <b>freelance projects</b> and <b>collaborations</b>.<br><br>
-  <a href="mailto:00abhichauhann00@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-00c4ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://abhishek-da-portfolio.pages.dev/"><img src="https://img.shields.io/badge/View_Portfolio-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00C4FF"/></a>
-  <a href="https://linkedin.com/in/00abhichauhan00"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Turning%20Data%20Into%20Actionable%20Insights&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff354f,50:247bff,100:070b16&height=140&section=footer&text=Turning%20Data%20Into%20Actionable%20Insights&fontSize=22&fontColor=f4f6fb&fontAlignY=65" width="100%"/>
 </p>
