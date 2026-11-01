@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60" role="img" aria-label="X  /  Twitter">
+<title>X  /  Twitter</title>
+<defs>
+<linearGradient id="bxg" x1="0" y1="0" x2="1" y2="0.3"><stop offset="0.00" stop-color="#0b0f19"/><stop offset="1.00" stop-color="#3a4256"/></linearGradient>
+<linearGradient id="bxh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".35"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="bxs" x="-20%" y="-30%" width="140%" height="190%"><feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#0b0f19" flood-opacity=".55"/></filter>
+<clipPath id="bxc"><rect x="6" y="4" width="188" height="44" rx="22"/></clipPath>
+</defs>
+<rect x="6" y="4" width="188" height="44" rx="22" fill="url(#bxg)" filter="url(#bxs)"/>
+<rect x="6" y="4" width="188" height="44" rx="22" fill="url(#bxh)"/>
+<rect x="6.5" y="4.5" width="187" height="43" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity=".28"/>
+<g clip-path="url(#bxc)"><rect x="-60" y="0" width="26" height="60" fill="#fff" opacity=".22" transform="skewX(-20)"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;300 0;300 0" keyTimes="0;0.15;0.45;1" dur="5s" repeatCount="indefinite" additive="sum"/></rect></g>
+<circle cx="34" cy="26" r="15" fill="#000" fill-opacity=".22"/>
+<g transform="translate(34 26)"><g transform="translate(-7.5 -7.5) scale(.625)"><path fill="#fff" d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></g></g>
+<text x="120" y="31" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="800" letter-spacing="1.1" fill="#fff">X  /  TWITTER</text>
+</svg>

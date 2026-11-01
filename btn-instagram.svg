@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60" role="img" aria-label="Instagram">
+<title>Instagram</title>
+<defs>
+<linearGradient id="binstagramg" x1="0" y1="0" x2="1" y2="0.3"><stop offset="0.00" stop-color="#833AB4"/><stop offset="0.50" stop-color="#E1306C"/><stop offset="1.00" stop-color="#F77737"/></linearGradient>
+<linearGradient id="binstagramh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".35"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="binstagrams" x="-20%" y="-30%" width="140%" height="190%"><feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#833AB4" flood-opacity=".55"/></filter>
+<clipPath id="binstagramc"><rect x="6" y="4" width="188" height="44" rx="22"/></clipPath>
+</defs>
+<rect x="6" y="4" width="188" height="44" rx="22" fill="url(#binstagramg)" filter="url(#binstagrams)"/>
+<rect x="6" y="4" width="188" height="44" rx="22" fill="url(#binstagramh)"/>
+<rect x="6.5" y="4.5" width="187" height="43" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity=".18"/>
+<g clip-path="url(#binstagramc)"><rect x="-60" y="0" width="26" height="60" fill="#fff" opacity=".22" transform="skewX(-20)"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;300 0;300 0" keyTimes="0;0.15;0.45;1" dur="5s" repeatCount="indefinite" additive="sum"/></rect></g>
+<circle cx="34" cy="26" r="15" fill="#000" fill-opacity=".22"/>
+<g transform="translate(34 26)"><rect x="-8" y="-8" width="16" height="16" rx="5" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle r="3.8" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="4.9" cy="-4.9" r="1" fill="#fff"/></g>
+<text x="120" y="31" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="800" letter-spacing="1.1" fill="#fff">INSTAGRAM</text>
+</svg>
